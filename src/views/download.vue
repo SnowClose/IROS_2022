@@ -6,38 +6,23 @@
       </h2>
     </div>
     <div class="content-en">
-      <el-table
-      :data="tableData"
-      style="width: 100%">
-      <el-table-column
-        prop="Number"
-        label="Number"
-        >
-      </el-table-column>
-      <el-table-column
-        prop="Name"
-        label="Name"
-        >
-      </el-table-column>
-      <el-table-column
-        prop="Kind"
-        label="Kind">
-      </el-table-column>
-      <el-table-column
-        prop="Created"
-        label="Created">
-      </el-table-column>
-      <el-table-column
-        prop="Size"
-        label="File Size">
-      </el-table-column>
-      <el-table-column
-        prop="Action"
-        label="Action">
-        <template slot-scope="scope">
-        <el-button @click="handleClick(scope.row)" type="text" size="small">下载</el-button>
-      </template>
-      </el-table-column>
+      <el-table :data="tableData" style="width: 100%">
+        <el-table-column prop="Number" label="Number"> </el-table-column>
+        <el-table-column prop="Name" label="Name"> </el-table-column>
+        <el-table-column prop="Kind" label="Kind"> </el-table-column>
+        <el-table-column prop="Created" label="Created"> </el-table-column>
+        <el-table-column prop="Size" label="File Size"> </el-table-column>
+        <el-table-column prop="Action" label="Action">
+          <template slot-scope="scope">
+            <!-- <el-button @click="handleClick(scope.row)" type="text" size="small">下载</el-button> -->
+            <a
+              :href="scope.row.url"
+              :download="scope.row.name"
+              target="_blank"
+              >下载</a
+            >
+          </template>
+        </el-table-column>
       </el-table>
     </div>
   </div>
@@ -51,10 +36,11 @@ export default {
       tableData: [
         {
           Number: "1",
-          Name: "SPIE-Template_A4.doc",
+          Name: "call for paper-May6-8.pdf",
           Kind: "资料下载	",
-          Created: "2021-10-29 11:22:45",
-          Size: "539.5kb",
+          Created: "2022-02-08 14:24:45",
+          Size: "668kb",
+          url: "./call for paper-May6-8.pdf",
         },
       ],
     };
