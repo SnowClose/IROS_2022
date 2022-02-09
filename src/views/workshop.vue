@@ -4,7 +4,7 @@
       <h3>Call for Workshop</h3>
     </div>
     <h3>
-      The ICIEIS 2021 technical program will highlight a series of workshops to
+      The ICIEIS 2022 technical program will highlight a series of workshops to
       complement the regular program with new or emerging topics of particular
       interest to the information science and informatics engineering.
       Prospective organizers of workshops should submit proposals with the
@@ -32,7 +32,7 @@
     </h4>
     <h2>Deadlines</h2>
     <ul>
-      <li>Proposals Due: Oct 22, 2021</li>
+      <li>Proposals Due: Oct 22, 2022</li>
       <li>Notification of Acceptance: 1-2 weeks after submission</li>
       <li>
         Submission of full five-page papers for approved workshop: Within 2

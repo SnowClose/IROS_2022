@@ -10,7 +10,7 @@
         <h1>Publication | Proceeding</h1>
         <p>
           Papers submitted to The 4th International Conference on Informatics
-          Engineering & Information Science (ICIEIS 2021) will be reviewed by
+          Engineering & Information Science (ICIEIS 2022) will be reviewed by
           technical committees of the conference. All accepted full papers will
           be published in SPIE - The International Society for Optical
           Engineering (ISSN: 0277-786X), which will be submitted for inclusion

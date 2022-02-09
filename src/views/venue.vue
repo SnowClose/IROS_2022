@@ -10,7 +10,7 @@
       <p>
         <span style="color: #000000"
           ><strong
-            >ICIEIS 2021 will be held in Tianjin, China during Nov. 19-21, 2021.
+            >ICIEIS 2022 will be held in Tianjin, China during Nov. 19-21, 2022.
             For further information of the hotel, please find below.</strong
           ></span
         >

@@ -26,7 +26,7 @@
 
       <p></p>
 
-      The secretary office of ICIEIS 2021 will collect contributions and finish
+      The secretary office of ICIEIS 2022 will collect contributions and finish
       daily organizing work. All paper review process will be completed by
       program committee and invited experts.<br />
 

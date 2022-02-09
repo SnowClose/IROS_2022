@@ -16,7 +16,7 @@
       <div class="mes">
         <h3>
           The 4th International Conference on Informatics Engineering &
-          Information Science (ICIEIS 2021)
+          Information Science (ICIEIS 2022)
         </h3>
         <!-- <p>COVID-19 Information and Resources</p>
         <p>https://corona.go.jp/en/dashboard/</p>
@@ -25,19 +25,19 @@
         </p> -->
       </div>
       <div>
-        <h1>Welcome to ICIEIS 2021</h1>
+        <h1>Welcome to ICIEIS 2022</h1>
         <p>
           On behalf of the organizing committee, we warmly invite you to
           participate in the 4th International Conference on Informatics
-          Engineering {{ `&` }} Information Science (ICIEIS 2021) which will be
-          held at Tianjin, China during November 26-28, 2021.
+          Engineering {{ `&` }} Information Science (ICIEIS 2022) which will be
+          held at Tianjin, China during November 26-28, 2022.
         </p>
         <p>
           The previous conference of ICIEIS took place in Malaysia (2011
-          {{ `&` }} 2013), and Poland (2014) successfully. ICIEIS 2021 will come
+          {{ `&` }} 2013), and Poland (2014) successfully. ICIEIS 2022 will come
           back this year and it will provide a valuable opportunity for
           researchers, scholars and some scientists to exchange their ideas face
-          to face together. ICIEIS 2021 is very special for its strong
+          to face together. ICIEIS 2022 is very special for its strong
           organization team, dependable reputation and wide sponsors all around
           the world, which is the leading annual conferences of informatics
           engineering {{ `&` }}
@@ -46,7 +46,7 @@
         <p>
           The blend of unique perspectives and experiences makes for energetic
           discussions and exchange of ideas. It's not just the speakers that
-          share their knowledge. Every participant of ICIEIS 2021 is welcomed
+          share their knowledge. Every participant of ICIEIS 2022 is welcomed
           and expected to contribute. Share your research findings, pose
           questions, and generate new ideas!
         </p>
@@ -55,21 +55,21 @@
             <img src="../assets/img/deline.png" alt="" />
             <div>
               <p>Submission Deadline</p>
-              <p>Nov. 22, 2021</p>
+              <p>Nov. 22, 2022</p>
             </div>
           </div>
           <div class="item">
             <img src="../assets/img/date.png" alt="" />
             <div>
               <p>Notification Date</p>
-              <p>Nov. 22, 2021</p>
+              <p>Nov. 22, 2022</p>
             </div>
           </div>
           <div class="item">
             <img src="../assets/img/redeadline.png" alt="" />
             <div>
               <p>Registration Deadline</p>
-              <p>Nov. 25, 2021</p>
+              <p>Nov. 25, 2022</p>
             </div>
           </div>
           <div class="item">
@@ -77,7 +77,7 @@
             <div>
               <p>Conference Date</p>
               <p style="color: red">(Postponed)</p>
-              <p>Nov. 26-28, 2021</p>
+              <p>Nov. 26-28, 2022</p>
             </div>
           </div>
         </div>

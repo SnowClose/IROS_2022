@@ -24,7 +24,7 @@
     <div>
       <h5>
         The 4th International Conference on Informatics Engineering &
-        Information Science (ICIEIS 2021) will bring together leading
+        Information Science (ICIEIS 2022) will bring together leading
         researchers, engineers and scientists in the domain of interest from
         around the world.
       </h5>
@@ -57,7 +57,7 @@
       <h5>
         All papers, both invited and contributed, will be reviewed by two or
         three experts from the committees. After a careful reviewing process,
-        all accepted papers of ICIEIS 2021 will be submitted for indexing by EI
+        all accepted papers of ICIEIS 2022 will be submitted for indexing by EI
         Compendex and Scopus.
       </h5>
       <div class="note">

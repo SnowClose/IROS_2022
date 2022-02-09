@@ -26,10 +26,10 @@
 
         Join as Presenter: If you are interested in giving presentation on
         conference, without publishing your paper in the proceeding, you can
-        choose to attend ICIEIS 2021 as a Presenter. As presenter, you need to
+        choose to attend ICIEIS 2022 as a Presenter. As presenter, you need to
         submit the abstract and title of your presentation before register. For
         further information, please contact us at: icieis_contact@163.com<br />
-        Join as Listener: ICIEIS 2021 is an unmissable conference. It is a good
+        Join as Listener: ICIEIS 2022 is an unmissable conference. It is a good
         chance and an effective platform to meet many renowned experts and
         researchers in the filed of latest academic research. You are welcome to
         attend this great event. You need to complete the registration as
@@ -39,7 +39,7 @@
 
         Details of the registration fees<br />
 
-        1. Registration fees for ICIEIS 2021 Regular is USD550 / 3200 RMB per
+        1. Registration fees for ICIEIS 2022 Regular is USD550 / 3200 RMB per
         paper.<br />
 
         2. If the length of the paper exceeds 6 Pages, the cost of Each Extra

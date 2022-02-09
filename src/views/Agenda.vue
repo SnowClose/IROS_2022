@@ -6,14 +6,14 @@
       </h2>
     </div>
     <div class="content-en">
-      <div class="title" style="text-align: center">Nov. 19, 2021 | Friday</div>
+      <div class="title" style="text-align: center">Nov. 19, 2022 | Friday</div>
       <div style="display: flex">
         <div style="width: 30%; text-align: center"><p>13:00-18:00</p></div>
         <div style="width: 69%; text-align: center">
           <p>Sign in onsite (Collecting conference materials)</p>
         </div>
       </div>
-      <div class="title" style="text-align: center">Nov. 19, 2021 | Friday</div>
+      <div class="title" style="text-align: center">Nov. 19, 2022 | Friday</div>
       <div style="display: flex">
         <div style="width: 30%; text-align: center">
           <p>9:00-9:05</p>
@@ -33,7 +33,7 @@
         </div>
       </div>
       <div class="title" style="text-align: center">
-        Nov. 20, 2021 | Saturday AFTERNOON
+        Nov. 20, 2022 | Saturday AFTERNOON
       </div>
       <div style="display: flex">
         <div style="width: 30%; text-align: center">
@@ -49,7 +49,7 @@
           <p>Welcome Receiption and Dinner</p>
         </div>
       </div>
-      <div class="title" style="text-align: center">Nov. 21, 2021 | Sunday</div>
+      <div class="title" style="text-align: center">Nov. 21, 2022 | Sunday</div>
       <div style="display: flex">
         <div style="width: 30%; text-align: center"><p>9:00-17:00</p></div>
         <div style="width: 69%; text-align: center">
