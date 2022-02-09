@@ -1,6 +1,6 @@
 <template>
   <div class="content">
-    <div class="time">
+    <!-- <div class="time">
       <el-divider><h2>Call for Paper | Topics of Internet</h2></el-divider>
       <div class="countdown">
         <div class="item">
@@ -20,7 +20,7 @@
           <p>SECONDS</p>
         </div>
       </div>
-    </div>
+    </div> -->
     <div>
       <h5>
         The 4th International Conference on Informatics Engineering &
@@ -103,21 +103,21 @@ export default {
       minute: "",
     };
   },
-  mounted() {
-    this.time && clearInterval(this.time);
-    this.time = setInterval(() => {
-      this.now = moment();
-      let totalTimeSecond = this.after.diff(this.now, "second");
-      this.second = totalTimeSecond % 60;
-      this.day = Math.floor(totalTimeSecond / 60 / 60 / 24);
-      this.hour = Math.floor((totalTimeSecond / 60 / 60) % 24);
-      this.minute = Math.floor((totalTimeSecond / 60) % 60);
-      console.log(this.day, this.hour, this.minute, this.second);
-    }, 1000);
-  },
-  destroyed() {
-    this.time && clearInterval(this.time);
-  },
+  // mounted() {
+  //   this.time && clearInterval(this.time);
+  //   this.time = setInterval(() => {
+  //     this.now = moment();
+  //     let totalTimeSecond = this.after.diff(this.now, "second");
+  //     this.second = totalTimeSecond % 60;
+  //     this.day = Math.floor(totalTimeSecond / 60 / 60 / 24);
+  //     this.hour = Math.floor((totalTimeSecond / 60 / 60) % 24);
+  //     this.minute = Math.floor((totalTimeSecond / 60) % 60);
+  //     console.log(this.day, this.hour, this.minute, this.second);
+  //   }, 1000);
+  // },
+  // destroyed() {
+  //   this.time && clearInterval(this.time);
+  // },
   methods: {},
 };
 </script>

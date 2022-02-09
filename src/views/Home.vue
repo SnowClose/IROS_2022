@@ -122,7 +122,7 @@
         </div>
       </div>
     </div>
-    <div class="time">
+    <!-- <div class="time">
       <h2 style="text-align: left">
         Time to the IROS 2022 Paper Submission Deadline
       </h2>
@@ -144,7 +144,7 @@
           <p>SECONDS</p>
         </div>
       </div>
-    </div>
+    </div> -->
     <div class="sponsor">
       <h1>Sponsor</h1>
       <img src="../assets/img/shendaligong.png" alt="" />
@@ -615,21 +615,21 @@ export default {
       minute: "",
     };
   },
-  mounted() {
-    this.time && clearInterval(this.time);
-    this.time = setInterval(() => {
-      this.now = moment();
-      let totalTimeSecond = this.after.diff(this.now, "second");
-      this.second = totalTimeSecond % 60;
-      this.day = Math.floor(totalTimeSecond / 60 / 60 / 24);
-      this.hour = Math.floor((totalTimeSecond / 60 / 60) % 24);
-      this.minute = Math.floor((totalTimeSecond / 60) % 60);
-      console.log(this.day, this.hour, this.minute, this.second);
-    }, 1000);
-  },
-  destroyed() {
-    this.time && clearInterval(this.time);
-  },
+  // mounted() {
+  //   this.time && clearInterval(this.time);
+  //   this.time = setInterval(() => {
+  //     this.now = moment();
+  //     let totalTimeSecond = this.after.diff(this.now, "second");
+  //     this.second = totalTimeSecond % 60;
+  //     this.day = Math.floor(totalTimeSecond / 60 / 60 / 24);
+  //     this.hour = Math.floor((totalTimeSecond / 60 / 60) % 24);
+  //     this.minute = Math.floor((totalTimeSecond / 60) % 60);
+  //     console.log(this.day, this.hour, this.minute, this.second);
+  //   }, 1000);
+  // },
+  // destroyed() {
+  //   this.time && clearInterval(this.time);
+  // },
 };
 </script>
 <style lang="scss" scoped>
