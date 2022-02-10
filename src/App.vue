@@ -48,9 +48,9 @@
     <div class="footer">
       <span class="copyright">© Copyright - IROS 2022</span>
       <div style="line-height: 30px">
-        Copyright© The 4th International Conference on Informatics Engineering
+        Copyright© The 5<sup>th</sup> International Conference on Informatics Engineering
         {{ `&` }} Information Science (ICIEIS 2022)<br />
-        The 4th International Conference on Informatics Engineering
+        The 5<sup>th</sup> International Conference on Informatics Engineering
         {{ `&` }} Information Science (ICIEIS 2022) http://www.icieis.net/
       </div>
       <!-- <ul class="noLightbox social_bookmarks icon_count_3">
