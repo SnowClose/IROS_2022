@@ -55,21 +55,21 @@
             <img src="../assets/img/deline.png" alt="" />
             <div>
               <p>Submission Deadline</p>
-              <p>Nov. 22, 2022</p>
+              <p>March. 30, 2022</p>
             </div>
           </div>
           <div class="item">
             <img src="../assets/img/date.png" alt="" />
             <div>
               <p>Notification Date</p>
-              <p>Nov. 22, 2022</p>
+              <p>April. 15, 2022</p>
             </div>
           </div>
           <div class="item">
             <img src="../assets/img/redeadline.png" alt="" />
             <div>
               <p>Registration Deadline</p>
-              <p>Nov. 25, 2022</p>
+              <p>April. 30, 2022</p>
             </div>
           </div>
           <div class="item">
@@ -77,7 +77,7 @@
             <div>
               <p>Conference Date</p>
               <p style="color: red">(Postponed)</p>
-              <p>Nov. 26-28, 2022</p>
+              <p>May. 13-15, 2022</p>
             </div>
           </div>
         </div>
