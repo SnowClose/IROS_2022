@@ -77,7 +77,7 @@
             <div>
               <p>Conference Date</p>
               <!-- <p style="color: red">(Postponed)</p> -->
-              <p>May. 13-15, 2022</p>
+              <p>May. 6-8, 2022</p>
             </div>
           </div>
         </div>
