@@ -76,7 +76,7 @@
             <img src="../assets/img/condate.png" alt="" />
             <div>
               <p>Conference Date</p>
-              <p style="color: red">(Postponed)</p>
+              <!-- <p style="color: red">(Postponed)</p> -->
               <p>May. 13-15, 2022</p>
             </div>
           </div>
