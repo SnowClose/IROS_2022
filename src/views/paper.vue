@@ -33,7 +33,37 @@
       </h3>
       <ul>
         <li></li>
-        <li>· Air-space-ground integrated communication network technology</li>
+        • Control Theory and Control Systems
+        <br />
+        • Microelectronics
+        <br />
+        • Biometrics<br />
+        • Internet of things
+        <br />
+        • Circuit and system electronics
+        <br />
+        • Adaptive learning
+        <br />
+        • Neural networks and control
+        <br />
+        • Fuzzy systems and control<br />
+        • Cybernetics<br />
+        • Data-based modelling<br />
+        • Data-based optimization<br />
+        • Artificial Intelligent Technology<br />
+        • Space robots<br />
+        • Medical robots<br />
+        • Bionic robots<br />
+        • Brain-like intelligence<br />
+        • Smart gird<br />
+        • Energy management<br />
+        • Deep learning<br />
+        • Decision making<br />
+        • Motion planning<br />
+        • Unmanned aerial vehicle<br />
+        • Real-time computing<br />
+        • Intelligent transportation<br />
+        <!-- <li>· Air-space-ground integrated communication network technology</li>
         <li>· Biometrics</li>
         <li>· Circuit and system</li>
         <li>· Cooperativen-cooperative communications</li>
@@ -51,7 +81,7 @@
         <li>· Steganography, watermarking</li>
         <li>· Signal processing</li>
         <li>· Sensors and Internet of things</li>
-        <li>· Theory and technology of microwave/millimeter wave system</li>
+        <li>· Theory and technology of microwave/millimeter wave system</li> -->
       </ul>
       <br />
       <h5>

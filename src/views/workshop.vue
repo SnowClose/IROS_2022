@@ -32,7 +32,7 @@
     </h4>
     <h2>Deadlines</h2>
     <ul>
-      <li>Proposals Due: Oct 22, 2022</li>
+      <li>Proposals Due: March 30, 2022</li>
       <li>Notification of Acceptance: 1-2 weeks after submission</li>
       <li>
         Submission of full five-page papers for approved workshop: Within 2
@@ -40,7 +40,7 @@
       </li>
     </ul>
     <h3>
-      Proposals should be submitted to <a>icieis_contact@163.com</a> before the
+      Proposals should be submitted to <a>icieis2022@163.com</a> before the
       deadline.
     </h3>
     <div class="note">
@@ -53,7 +53,7 @@
       for a given workshop are not accepted in the review process and we are
       unable to find suitable substitutes from the regular review pool, the
       workshop may be canceled. Any further inquiries should be sent to:
-      <a>icieis_contact@163.com</a>
+      <a>icieis2022@163.com</a>
     </div>
   </div>
 </template>

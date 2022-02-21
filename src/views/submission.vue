@@ -7,7 +7,7 @@
     <ul>
       <li>1.The submitted papers must not be under consideration elsewhere.</li>
       <li>
-        2.Please send the full paper(word+pdf) to <a href="">Easy Chair.</a>
+        2.Please send the full paper(word+pdf) to <a href="https://easychair.org/conferences/?conf=icieis2022" target="_blank">Easy Chair.</a>
       </li>
       <li>
         3.Please submit the full paper, if presentation and publication are both

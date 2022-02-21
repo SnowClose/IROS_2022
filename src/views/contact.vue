@@ -8,21 +8,13 @@
     <div class="content-en">
       Conference Secretary: <br />
 
-      Ms. Wendy Lin<br />
-
-      E-mail: icieis_contact@163.com<br />
-
-      Tel: +86-13902257963 (WeChat)<br />
-
-      QQ: 2583233932<br />
-
-      <p></p>
-
-      Dr. Chen<br />
-
-      E-mail: zg.chen1@siat.ac.cn<br />
-
-      Tel: +86-15111243628 <br />
+      <p>Conference Secretary: Leo</p>
+      <p>email: icieis2022@163.com</p>
+      <p>phone: +86-15111243628(Wechat)</p>
+      <!-- <p>orhers: aeic_wendy (WeChat)</p> -->
+      <p>Dr. Chan</p>
+      <!-- <p>email: zg.chen1@siat.ac.cn</p> -->
+      <p>phone: +86-18810516562 (Wechat)</p>
 
       <p></p>
 
@@ -32,7 +24,11 @@
 
       If you have any question or inquiries, please feel free to contact us.<br />
     </div>
-    <img width="255" src="https://fhk.ais.cn/cms/website/editor/202107/345210705011929289.png" alt="">
+    <img
+      width="255"
+      src="../assets/img/erweima.jpg"
+      alt=""
+    />
   </div>
 </template>
 

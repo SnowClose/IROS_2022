@@ -15,8 +15,8 @@
     <div class="con describe">
       <div class="mes">
         <h3>
-          The 5<sup>th</sup> International Conference on Informatics Engineering &
-          Information Science (ICIEIS 2022)
+          The 5<sup>th</sup> International Conference on Informatics Engineering
+          & Information Science (ICIEIS 2022)
         </h3>
         <!-- <p>COVID-19 Information and Resources</p>
         <p>https://corona.go.jp/en/dashboard/</p>
@@ -28,20 +28,21 @@
         <h1>Welcome to ICIEIS 2022</h1>
         <p>
           On behalf of the organizing committee, we warmly invite you to
-          participate in the 5<sup>th</sup> International Conference on Informatics
-          Engineering {{ `&` }} Information Science (ICIEIS 2022) which will be
-          held at Tianjin, China during November 26-28, 2022.
+          participate in the 5<sup>th</sup> International Conference on
+          Informatics Engineering {{ `&` }} Information Science (ICIEIS 2022)
+          which will be held at Tianjin, China during May 6-8, 2022.
         </p>
         <p>
           The previous conference of ICIEIS took place in Malaysia (2011
-          {{ `&` }} 2013), and Poland (2014) successfully. ICIEIS 2022 will come
-          back this year and it will provide a valuable opportunity for
-          researchers, scholars and some scientists to exchange their ideas face
-          to face together. ICIEIS 2022 is very special for its strong
-          organization team, dependable reputation and wide sponsors all around
-          the world, which is the leading annual conferences of informatics
-          engineering {{ `&` }}
-          information science for all researcher home and abroad.
+          {{ `&` }} 2013), and Poland (2014) successfully. ICIEIS is a leading
+          annual conference of informatics engineering and information science
+          for researchers around the world. Known for its strong leadership team
+          and dependable reputation, ICIEIS has a wide network of sponsors and
+          supporters globally. The 2022 edition of this special conference has
+          raised the bar again for the informatics and the engineering
+          professional field, and every participant is invited to contribute on
+          this exciting platform, sharing research findings and insights as well
+          as generating new ideas to help advancing the forefront of technology.
         </p>
         <p>
           The blend of unique perspectives and experiences makes for energetic
@@ -209,19 +210,19 @@
     </div>
     <div class="quick-links">
       <h1>Quick Links</h1>
-      <div style="background: #dbe5f1;margin: 50px;padding: 20px;">
+      <div style="background: #dbe5f1; margin: 50px; padding: 20px">
         <h3 style="text-align: left">Contact Us</h3>
         <div class="quick-links_content">
           <div class="item">
-            <p>Ms. Wendy Lin</p>
-            <p>email: icieis_contact@163.com</p>
-            <p>phone: +86-13902257963</p>
-            <p>orhers: aeic_wendy (WeChat)</p>
+            <p> Conference Secretary: Leo</p>
+            <p>email:  icieis2022@163.com</p>
+            <p>phone:  +86-15111243628(Wechat)</p>
+            <!-- <p>orhers: aeic_wendy (WeChat)</p> -->
           </div>
           <div class="item">
-            <p>Dr. Chen</p>
-            <p>email: zg.chen1@siat.ac.cn</p>
-            <p>phone: +86-15111243628</p>
+            <p> Dr. Chan</p>
+            <!-- <p>email: zg.chen1@siat.ac.cn</p> -->
+            <p>phone:  +86-18810516562 (Wechat)</p>
           </div>
           <div class="item">
             <p>
@@ -249,7 +250,7 @@
             <p>
               <span style="color: #000000">&gt;&nbsp; &nbsp;</span
               ><a
-                href="https://easychair.org/conferences/?conf=icieis2021"
+                href="https://easychair.org/conferences/?conf=icieis2022"
                 target="_blank"
                 ><span style="color: #548dd4"
                   ><strong>Submission Online (Easy Chair)</strong></span
@@ -274,328 +275,6 @@
         </div>
       </div>
 
-      <!-- <table class="UEditorTable" data-sort="sortDisabled">
-        <tbody>
-          <tr class="firstRow">
-            <td
-              valign="top"
-              style="
-                word-break: break-all;
-                background-color: rgb(219, 229, 241);
-                border-color: rgb(219, 229, 241);
-              "
-              width="245"
-            >
-              <span style="font-size: 18px; color: #000000"
-                ><strong>Contact us</strong></span
-              >
-            </td>
-            <td
-              valign="top"
-              colspan="1"
-              rowspan="1"
-              style="
-                border-color: rgb(219, 229, 241);
-                background-color: rgb(219, 229, 241);
-              "
-              width="214"
-            >
-              <br />
-            </td>
-            <td
-              valign="top"
-              style="
-                background-color: rgb(219, 229, 241);
-                border-color: rgb(219, 229, 241);
-              "
-              width="270"
-            >
-              <br />
-            </td>
-            <td
-              valign="top"
-              style="
-                background-color: rgb(219, 229, 241);
-                word-break: break-all;
-                border-color: rgb(219, 229, 241);
-              "
-              width="369"
-            >
-              <br />
-            </td>
-          </tr>
-          <tr>
-            <td
-              valign="top"
-              style="
-                word-break: break-all;
-                background-color: rgb(219, 229, 241);
-                border-color: rgb(219, 229, 241);
-              "
-              width="239"
-            >
-              <p style="margin-bottom: 0; line-height: 115%">
-                <span style="background-color: #dbe5f1; color: #000000"
-                  >Ms. Wendy Lin</span
-                >
-              </p>
-              <p
-                style="
-                  margin-top: 0px;
-                  margin-bottom: 0px;
-                  padding: 0px;
-                  white-space: normal;
-                  line-height: 18.4px;
-                "
-              >
-                <span style="font-family: Arial, sans-serif; color: #000000"
-                  ><img
-                    src="https://fhk.ais.cn/cms/website/editor/202107/345210705140026790.png"
-                    alt="65e0ae7fe09b7976b38562b5f927c9e9_毒霸看图(3).png"
-                    width="30"
-                    height="24"
-                    border="0"
-                    vspace="0"
-                    style="
-                      background-color: rgb(219, 229, 241);
-                      width: 30px;
-                      height: 24px;
-                    " /></span
-                ><span style="color: #000000"
-                  >&nbsp;icieis_contact@163.com</span
-                >
-              </p>
-              <p
-                style="
-                  margin-top: 0px;
-                  margin-bottom: 0px;
-                  padding: 0px;
-                  white-space: normal;
-                  line-height: 18.4px;
-                "
-              >
-                <br />
-              </p>
-              <p
-                style="
-                  margin-top: 0px;
-                  margin-bottom: 0px;
-                  padding: 0px;
-                  white-space: normal;
-                  line-height: 18.4px;
-                "
-              >
-                <img
-                  src="https://fhk.ais.cn/cms/website/editor/202107/345210705135957788.png"
-                  alt="65e0ae7fe09b7976b38562b5f927c9e9_毒霸看图(2).png"
-                  width="30"
-                  height="24"
-                  border="0"
-                  vspace="0"
-                  style="
-                    background-color: rgb(219, 229, 241);
-                    width: 30px;
-                    height: 24px;
-                  "
-                /><span style="color: #000000">&nbsp;+86-13902257963</span>
-              </p>
-              <p
-                style="
-                  margin-top: 0px;
-                  margin-bottom: 0px;
-                  padding: 0px;
-                  white-space: normal;
-                  line-height: 18.4px;
-                "
-              >
-                <br />
-              </p>
-              <p
-                style="
-                  margin-top: 0px;
-                  margin-bottom: 0px;
-                  padding: 0px;
-                  white-space: normal;
-                  line-height: 18.4px;
-                "
-              >
-                <img
-                  src="https://fhk.ais.cn/cms/website/editor/202107/345210705140053815.png"
-                  alt="65e0ae7fe09b7976b38562b5f927c9e9_毒霸看图(1)(1).png"
-                  width="30"
-                  height="24"
-                  border="0"
-                  vspace="0"
-                  style="
-                    background-color: rgb(219, 229, 241);
-                    width: 30px;
-                    height: 24px;
-                  "
-                /><span style="color: #000000">: aeic_wendy (WeChat)</span>
-              </p>
-              <p style="margin-bottom: 0; line-height: 115%"><br /></p>
-            </td>
-            <td
-              valign="top"
-              colspan="1"
-              rowspan="1"
-              style="
-                border-color: rgb(219, 229, 241);
-                background-color: rgb(219, 229, 241);
-                word-break: break-all;
-              "
-              width="210"
-            >
-              <p
-                style="
-                  margin-top: 0px;
-                  margin-bottom: 0px;
-                  padding: 0px;
-                  white-space: normal;
-                  line-height: 18.4px;
-                "
-              >
-                <span style="color: #000000">Dr. Chen</span>
-              </p>
-              <p
-                style="
-                  margin-top: 0px;
-                  margin-bottom: 0px;
-                  padding: 0px;
-                  white-space: normal;
-                  line-height: 18.4px;
-                "
-              >
-                <span
-                  style="
-                    background-color: #dbe5f1;
-                    font-family: Arial, sans-serif;
-                    color: #000000;
-                  "
-                  ><img
-                    src="https://fhk.ais.cn/cms/website/editor/202107/345210705140026790.png"
-                    alt="65e0ae7fe09b7976b38562b5f927c9e9_毒霸看图(3).png"
-                    width="30"
-                    height="24"
-                    border="0"
-                    vspace="0"
-                    style="width: 30px; height: 24px" /></span
-                ><span style="background-color: #dbe5f1; color: #000000"
-                  >&nbsp;zg.chen1@siat.ac.cn</span
-                >
-              </p>
-              <p
-                style="
-                  margin-top: 0px;
-                  margin-bottom: 0px;
-                  padding: 0px;
-                  white-space: normal;
-                  line-height: 18.4px;
-                "
-              >
-                <br />
-              </p>
-              <p
-                style="
-                  margin-top: 0px;
-                  margin-bottom: 0px;
-                  padding: 0px;
-                  white-space: normal;
-                  line-height: 18.4px;
-                "
-              >
-                <img
-                  src="https://fhk.ais.cn/cms/website/editor/202107/345210705135957788.png"
-                  alt="65e0ae7fe09b7976b38562b5f927c9e9_毒霸看图(2).png"
-                  width="30"
-                  height="24"
-                  border="0"
-                  vspace="0"
-                  style="
-                    background-color: rgb(219, 229, 241);
-                    width: 30px;
-                    height: 24px;
-                  "
-                /><span style="background-color: #dbe5f1; color: #000000"
-                  >&nbsp;+86-15111243628</span
-                >
-              </p>
-              <br />
-            </td>
-            <td
-              valign="top"
-              style="
-                word-break: break-all;
-                background-color: rgb(219, 229, 241);
-                border-color: rgb(219, 229, 241);
-              "
-              width="270"
-            >
-              <p>
-                &gt;&nbsp;
-                <a
-                  href="https://fhk.ais.cn/cms/website/document/202107/464c5ef1759592ee9cf2397dd78a69b2.doc"
-                  target="_blank"
-                  ><span style="color: #548dd4"
-                    ><strong>Template (Full Paper)</strong></span
-                  ></a
-                >
-              </p>
-              <p><br /></p>
-              <p>
-                <span style="color: #000000">&gt;&nbsp; </span
-                ><a
-                  href="https://fhk.ais.cn/cms/website/document/202107/5fc75309dc9b833a38b493c344ecd293.doc"
-                  target="_blank"
-                  ><span style="color: #548dd4"
-                    ><strong>Template (Abstract)</strong></span
-                  ></a
-                >
-              </p>
-            </td>
-            <td
-              valign="top"
-              style="
-                word-break: break-all;
-                background-color: rgb(219, 229, 241);
-                border-color: rgb(219, 229, 241);
-              "
-              width="369"
-            >
-              <p>
-                <span style="color: #000000">&gt;&nbsp; &nbsp;</span
-                ><a
-                  href="https://easychair.org/conferences/?conf=icieis2021"
-                  target="_blank"
-                  ><span style="color: #548dd4"
-                    ><strong>Submission Online (Easy Chair)</strong></span
-                  ></a
-                >
-              </p>
-              <p><br /></p>
-              <p>
-                <span style="background-color: #dbe5f1; color: #000000"
-                  >&gt;&nbsp; &nbsp;<a
-                    href="https://www.ais.cn/attendees/toSignUp/ZBRIIQ"
-                    target="_blank"
-                    ><strong
-                      ><span style="background-color: #dbe5f1; color: #548dd4"
-                        >Registration for Attending</span
-                      ></strong
-                    ></a
-                  ></span
-                >
-              </p>
-              <p><br /></p>
-              <p>
-                <span style="background-color: #dbe5f1; color: #000000"
-                  >&nbsp;</span
-                >
-              </p>
-            </td>
-          </tr>
-        </tbody>
-      </table> -->
     </div>
   </div>
 </template>

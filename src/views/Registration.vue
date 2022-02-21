@@ -28,7 +28,7 @@
         conference, without publishing your paper in the proceeding, you can
         choose to attend ICIEIS 2022 as a Presenter. As presenter, you need to
         submit the abstract and title of your presentation before register. For
-        further information, please contact us at: icieis_contact@163.com<br />
+        further information, please contact us at: icieis2022@163.com<br />
         Join as Listener: ICIEIS 2022 is an unmissable conference. It is a good
         chance and an effective platform to meet many renowned experts and
         researchers in the filed of latest academic research. You are welcome to
