@@ -85,28 +85,47 @@
         <h1>Keepnote Speakers | ICIEIS</h1>
         <div class="teacher_content">
           <div class="item">
-            <img src="../assets/img/huagui.jpeg" alt="" />
+            <img
+              src="https://fhk.ais.cn/cms/website/editor/202107/345210702170637542.jpg"
+              width="220"
+              height="220"
+              alt=""
+            />
             <h4 class="name">Prof. Weihua Gui</h4>
             <h4>Central South University, China</h4>
             <h4>*Academician of the Chinese Academy of Engineering</h4>
             <h4>*Academic leader of National Natural Science Fund</h4>
           </div>
           <div class="item">
-            <img src="../assets/img/huayang.jpeg" alt="" />
+            <img
+              src="https://fhk.ais.cn/cms/website/editor/202107/345210702170849561.jpg"
+              width="220"
+              height="220"
+              alt=""
+            />
             <h4 class="name">Prof. Weihua Gui</h4>
             <h4>Central South University, China</h4>
             <h4>*Academician of the Chinese Academy of Engineering</h4>
             <h4>*Academic leader of National Natural Science Fund</h4>
           </div>
           <div class="item">
-            <img src="../assets/img/duan.jpeg" alt="" />
+            <img
+              src="https://fhk.ais.cn/cms/website/editor/202107/345210702172145637.jpg"
+              width="220"
+              height="220"
+              alt=""
+            />
             <h4 class="name">Prof. Chunhua Yang</h4>
             <h4>Central South University, China</h4>
             <h4>*National Hundred</h4>
             <h4>*New Century Excellent Talent</h4>
           </div>
           <div class="item">
-            <img src="../assets/img/guanglin.png" alt="" />
+            <img
+              src="https://fhk.ais.cn/cms/website/editor/202107/385210706171459279.png"
+              style="height: 160px; padding-top: 34px; padding-bottom: 20px"
+              alt=""
+            />
             <h4 class="name">Prof. Guanglin Li</h4>
             <h4>
               Shenzhen Institutes of Advanced Technology, Chinese Academy of
@@ -214,15 +233,15 @@
         <h3 style="text-align: left">Contact Us</h3>
         <div class="quick-links_content">
           <div class="item">
-            <p> Conference Secretary: Leo</p>
-            <p>email:  icieis2022@163.com</p>
-            <p>phone:  +86-15111243628(Wechat)</p>
+            <p>Conference Secretary: Leo</p>
+            <p>email: icieis2022@163.com</p>
+            <p>phone: +86-15111243628(Wechat)</p>
             <!-- <p>orhers: aeic_wendy (WeChat)</p> -->
           </div>
           <div class="item">
-            <p> Dr. Chan</p>
+            <p>Dr. Chan</p>
             <!-- <p>email: zg.chen1@siat.ac.cn</p> -->
-            <p>phone:  +86-18810516562 (Wechat)</p>
+            <p>phone: +86-18810516562 (Wechat)</p>
           </div>
           <div class="item">
             <p>
@@ -274,7 +293,6 @@
           </div>
         </div>
       </div>
-
     </div>
   </div>
 </template>
@@ -406,6 +424,7 @@ export default {
   display: flex;
   .item {
     flex: 1;
+    // margin: 10px 0;
     display: flex;
     img {
       width: 60px;
@@ -439,6 +458,7 @@ export default {
   justify-content: flex-start;
   .item {
     width: 33%;
+    margin: 10px 0;
     img {
       height: 42px;
     }
