@@ -10,20 +10,23 @@
       Prospective organizers of workshops should submit proposals with the
       following information:
     </h3>
-    <ul>
-      <li>Title</li>
-      <li>
-        Motivation, indicating the novelty of the topic and any possible
-        interdisciplinary flavor
-      </li>
-      <li>Short biography of the organizers</li>
-      <li>
-        List of five to ten contributed papers (including titles, authors,
-        contact information of the corresponding author, and a short abstract).
-        Upon acceptance of the workshop proposal, the contributed papers will be
-        submitted in the same format as regular papers.
-      </li>
-    </ul>
+    <div style="padding: 0 40px">
+      <ul>
+        <li>Title</li>
+        <li>
+          Motivation, indicating the novelty of the topic and any possible
+          interdisciplinary flavor
+        </li>
+        <li>Short biography of the organizers</li>
+        <li>
+          List of five to ten contributed papers (including titles, authors,
+          contact information of the corresponding author, and a short
+          abstract). Upon acceptance of the workshop proposal, the contributed
+          papers will be submitted in the same format as regular papers.
+        </li>
+      </ul>
+    </div>
+
     <br />
     <h4>
       Proposals will be evaluated based on the timeliness of the topic and on
@@ -31,14 +34,17 @@
       papers as well.
     </h4>
     <h2>Deadlines</h2>
-    <ul>
-      <li>Proposals Due: March 30, 2022</li>
-      <li>Notification of Acceptance: 1-2 weeks after submission</li>
-      <li>
-        Submission of full five-page papers for approved workshop: Within 2
-        weeks after acceptance
-      </li>
-    </ul>
+    <div style="padding: 0 40px">
+      <ul>
+        <li>Proposals Due: March 30, 2022</li>
+        <li>Notification of Acceptance: 1-2 weeks after submission</li>
+        <li>
+          Submission of full five-page papers for approved workshop: Within 2
+          weeks after acceptance
+        </li>
+      </ul>
+    </div>
+
     <h3>
       Proposals should be submitted to <a>icieis2022@163.com</a> before the
       deadline.

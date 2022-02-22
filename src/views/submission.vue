@@ -17,7 +17,7 @@
         4.Please submit the abstract only, if you just want to make
         presentations.
       </li>
-      <li>5.Templates Downlow: Templates</li>
+      <li>5.Templates Download: Templates</li>
     </ul>
     <br />
     <div class="note">

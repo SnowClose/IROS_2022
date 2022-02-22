@@ -11,12 +11,12 @@
         text-color="#64205c"
         active-text-color="#64205c"
       >
-        <div class="logo">
+        <!-- <div class="logo">
           <img src="../src/assets/img/iros2022_p-300x164.png" alt="" />
-        </div>
+        </div> -->
         <el-menu-item index="organizer">Organizations</el-menu-item>
         <el-menu-item index="contact">Contact</el-menu-item>
-        
+
         <el-submenu index="3">
           <template slot="title">Program</template>
           <el-menu-item index="agenda">Agenda </el-menu-item>
@@ -37,7 +37,7 @@
         </el-submenu>
 
         <el-menu-item index="speaker">Keynote Speakers</el-menu-item>
-        <el-menu-item index="committee">committee</el-menu-item>
+        <el-menu-item index="committee">Committee</el-menu-item>
         <el-menu-item index="home">Home</el-menu-item>
       </el-menu>
     </div>
@@ -48,10 +48,10 @@
     <div class="footer">
       <span class="copyright">© Copyright - IROS 2022</span>
       <div style="line-height: 30px">
-        Copyright© The 5<sup>th</sup> International Conference on Informatics Engineering
-        {{ `&` }} Information Science (ICIEIS 2022)<br />
+        Copyright© The 5<sup>th</sup> International Conference on Informatics
+        Engineering {{ `&` }} Information Science (ICIEIS 2022)<br />
         The 5<sup>th</sup> International Conference on Informatics Engineering
-        {{ `&` }} Information Science (ICIEIS 2022) http://www.icieis.net/
+        {{ `&` }} Information Science (ICIEIS 2022) http://www.icieis2022.com/
       </div>
       <!-- <ul class="noLightbox social_bookmarks icon_count_3">
         <li>
@@ -97,6 +97,9 @@ export default {
 body {
   margin: 0;
   padding: 0;
+  word-wrap: break-word;
+  word-break: break-all;
+  hyphens: auto;
 }
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
