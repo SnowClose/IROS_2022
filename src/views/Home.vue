@@ -30,7 +30,7 @@
           On behalf of the organizing committee, we warmly invite you to
           participate in the 5<sup>th</sup> International Conference on
           Informatics Engineering {{ `&` }} Information Science (ICIEIS 2022)
-          which will be held at Tianjin, China during May 6-8, 2022.
+          which will be held at Changsha, Hunan, China during May 6-8, 2022.
         </p>
         <p>
           The previous conference of ICIEIS took place in Malaysia (2011
