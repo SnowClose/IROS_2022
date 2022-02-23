@@ -167,7 +167,7 @@
     </div> -->
     <div class="sponsor">
       <h1>Sponsor</h1>
-      <img src="../assets/img/shendaligong.png" alt="" />
+      <img src="../assets/img/sponsor.png" alt="" />
       <div>
         Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
         (SIAT-CAS), China
