@@ -10,7 +10,7 @@
       <p>
         <span style="color: #000000"
           ><strong
-            >ICIEIS 2022 will be held in Tianjin, China during May. 6-8, 2022.
+            >ICIEIS 2022 will be held in Changsha Hunan, China during May. 6-8, 2022.
             For further information of the hotel, please find below.</strong
           ></span
         >
@@ -29,7 +29,7 @@
             vspace="0"
             style="float: left; width: 40px; height: 40px"
           />&nbsp;<strong
-            >Tianjin Juchuan White Magnolia Hotel&nbsp; &nbsp;
+            >Changesha, Hunan Hotel&nbsp; &nbsp;
             &nbsp;&nbsp;</strong
           ><strong>&nbsp;&nbsp;</strong></span
         >
